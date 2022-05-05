@@ -1,2 +1,2 @@
-# JCurrencyConverter
-Simple currency converter library for Java application
+# JavaUtilities
+Simple utilities library for Java application
