@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# **Java Utilities Overview**
+It contains a collection of java utility/Snippets for all your development needs. 
+This is build by a group of developers with a common interest to support developers to make coding easy. We encourage people to join our community and develop new utilities. 
 
-You can use the [editor on GitHub](https://github.com/piyushshri/JavaUtilities/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+## **Contribution Guidelines**
+Java Utilities is powered by liked minded people with aim to support the community, So please feel free to contribute. 
+* Submit pull request with new snippets or snippets updates. 
+* Open issues for things you want to see added or modified. Help out with existing issues. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## **Ground Rules**
+Please follow the basic ground rules described below, if not your pull request will be closed. 
+* Always be polite and be respectful to other contributors.
+* Follow advice and guidelines provided by moderators.
 
-### Markdown
+## **Roadmap**
+Based on feedback from the team and community, an initial roadmap will be published for a major version. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/piyushshri/JavaUtilities/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## **Credits**
+* This Repository was created and maintained by BITS OS G45 team. 
+* All snippets are covered by Mozilla Public License v2.0, unless explicitly stated otherwise. 
+* Logos, names and trademarks are not to be used without the explicit consent of the owners.
+* Follow us at Blog. 
+* Feedback can be provided at page. 
