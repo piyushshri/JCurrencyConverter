@@ -14,7 +14,6 @@ public class UnitConverter {
     static double KILOMETERS = 0.001;
 
     private double meters, converted;
-
     String fromUnit, toUnit;
 
     public UnitConverter(String afromUnit, String atoUnit) {
