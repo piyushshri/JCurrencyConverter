@@ -17,7 +17,6 @@ public class UnitConversionCalculator {
         System.out.println("Convert to: ");
         String toUnit = in.nextLine();
         UnitConverter unit = new UnitConverter(fromUnit, toUnit);
-
         System.out.println("Value:");
         double val = in.nextDouble();
         //convert to meter
