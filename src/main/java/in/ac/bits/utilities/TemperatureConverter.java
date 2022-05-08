@@ -15,5 +15,8 @@ public class TemperatureConverter {
 	public static double fahrenhietToKelvin(double f) {
 		return  (f-32) / 1.8 + 273.15;
 	}
-
+	public static double kelvinTofahrenhiet(double c) {
+		return  (c * 1.8) - 459.67;
+	}
+	
 }

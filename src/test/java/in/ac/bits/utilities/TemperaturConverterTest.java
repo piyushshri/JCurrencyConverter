@@ -23,4 +23,10 @@ public class TemperaturConverterTest {
         double converted =TemperatureConverter.fahrenhietToKelvin(98.6);
         assert(converted == 310.15);
     }
+    
+    @Test
+    public void kTof() {
+        double converted =TemperatureConverter.kelvinTofahrenhiet(311.15);
+        assert(converted >= 100.39);
+    }
 }
