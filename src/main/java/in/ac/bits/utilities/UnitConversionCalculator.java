@@ -12,8 +12,6 @@ public class UnitConversionCalculator {
 
         System.out.println("Convert from:");
         String fromUnit = in.nextLine();
-
-
         System.out.println("Convert to: ");
         String toUnit = in.nextLine();
         UnitConverter unit = new UnitConverter(fromUnit, toUnit);
