@@ -94,5 +94,7 @@ public class AreaUtil implements Serializable{
         public final double toSquarePoles(){return c(F.PO);}
         public final double toSquareRods(){return c(F.ROD);}
         public final double toSquareYards(){return c(F.YD);}
+        public final double toArpents(){return c(F.AR);}
+        public final double toBarns(){return c(F.B);}
     }
 }

@@ -23,6 +23,13 @@ public class AreaConverterTest {
         assert(sqkm);
 
     }
+
+      public void frmSqMetertoAcre() {
+        AreaUtil.Area sqm = new AreaUtil.Area().fromSquareMeters(1.25);
+        double Acer = sqm.toAcres();
+        assert(Acer);
+
+    }
 }
 
 
