@@ -30,6 +30,11 @@ public class AreaConverterTest {
         assert(Acer);
 
     }
+
+      public void sqFeetoAcres() {
+        double Acre = new AreaUtil.Area().fromSquareFeet(10.25).toAcres();;
+        assert(Acre);
+    }
 }
 
 
