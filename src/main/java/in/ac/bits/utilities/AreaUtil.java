@@ -71,8 +71,6 @@ public class AreaUtil implements Serializable{
         */
         public final double toAcres(){return c(F.AC);}
         public final double toAres(){return c(F.A);}
-        public final double toArpents(){return c(F.AR);}
-        public final double toBarns(){return c(F.B);}
         public final double toCircularInches(){return c(F.CRIN);}
         public final double toCircularMils(){return c(F.CRMIL);}
         public final double toHectares(){return c(F.HA);}
